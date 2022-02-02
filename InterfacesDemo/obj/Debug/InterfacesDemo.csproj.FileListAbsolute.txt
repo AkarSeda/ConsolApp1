@@ -1,0 +1,6 @@
+C:\Users\seda3\source\repos\ConsoleApp1\InterfacesDemo\bin\Debug\InterfacesDemo.exe.config
+C:\Users\seda3\source\repos\ConsoleApp1\InterfacesDemo\bin\Debug\InterfacesDemo.exe
+C:\Users\seda3\source\repos\ConsoleApp1\InterfacesDemo\bin\Debug\InterfacesDemo.pdb
+C:\Users\seda3\source\repos\ConsoleApp1\InterfacesDemo\obj\Debug\InterfacesDemo.csproj.CoreCompileInputs.cache
+C:\Users\seda3\source\repos\ConsoleApp1\InterfacesDemo\obj\Debug\InterfacesDemo.exe
+C:\Users\seda3\source\repos\ConsoleApp1\InterfacesDemo\obj\Debug\InterfacesDemo.pdb

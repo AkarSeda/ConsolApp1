@@ -1,0 +1,7 @@
+C:\Users\seda3\source\repos\ConsoleApp1\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\seda3\source\repos\ConsoleApp1\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\seda3\source\repos\ConsoleApp1\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\seda3\source\repos\ConsoleApp1\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+C:\Users\seda3\source\repos\ConsoleApp1\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\seda3\source\repos\ConsoleApp1\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\seda3\source\repos\ConsoleApp1\Interfaces\obj\Debug\Interfaces.pdb
